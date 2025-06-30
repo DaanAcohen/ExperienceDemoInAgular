@@ -10,7 +10,7 @@ export class CarouselHostComponent {
   public slides: Slide[] = [
     {
       title: '.NET Back‑end Development',
-      content: 'Over fourteen years of professional work with the full Microsoft .NET stack, from .NET Framework to.NET8, building robust back‑end services for finance, media and healthcare clients. Daan regularly applies LINQ, Entity Framework(Core) and ASP.NET Core to deliver high‑performance, maintainable APIs.'
+      content: 'Over sixteen years of professional work with the full Microsoft .NET stack, from .NET Framework to.NET8, building robust back‑end services for finance, media and healthcare clients. Daan regularly applies LINQ, Entity Framework(Core) and ASP.NET Core to deliver high‑performance, maintainable APIs.'
     },
     {
       title: 'Test Automation & TDD',
