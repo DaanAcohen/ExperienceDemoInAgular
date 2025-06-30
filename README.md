@@ -1,5 +1,7 @@
 # Angular Carousel Demo
 
+![Carousel Demo](./AngularDemo.gif)
+
 This project demonstrates a reusable text-only carousel component in Angular with a clear separation between data (model) and presentation (view and logic).
 
 ## Automated Setup and Running Instructions
